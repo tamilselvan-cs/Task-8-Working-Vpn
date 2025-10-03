@@ -1,0 +1,74 @@
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : TamilselvanC
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Unknown adapter Local Area Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : ExpressVPN TUN Driver
+   Physical Address. . . . . . . . . : 
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter
+   Physical Address. . . . . . . . . : XX-XX-XX-XX-XX-XX
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::XXXX:XXXX:XXXX:XXXXXXX(Preferred) 
+   IPv4 Address. . . . . . . . . . . : XXX.XXX.XX.X(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+   DHCPv6 IAID . . . . . . . . . . . : XXXXXXXXX
+   DHCPv6 Client DUID. . . . . . . . : XX-XX-XX-XX-XX-XX-XX-XX-XX-XX-XX-XX-XX-XX
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : XX-XX-XX-XX-XX-XX
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Physical Address. . . . . . . . . : 46-1A-XX-XX-XX-XX
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Realtek RTL8852BE-VS WiFi 6 xxx.xxxx PCIe Adapter
+   Physical Address. . . . . . . . . : 40-1A-XX-XX-XX-XX
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   IPv6 Address. . . . . . . . . . . : 2401:4900:XXXX:XXXX:XXXX:XXXX:XXXX:XXXX(Preferred) 
+   Temporary IPv6 Address. . . . . . : 2401:4900:4dfb:7714:40e9:2c37:a787:219e(Preferred) 
+   Link-local IPv6 Address . . . . . : fe80::d66b:XXXX:XXXX:XXXXXXX(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 10.XX.XX.XXX(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : 03 October 2025 11:05:36
+   Lease Expires . . . . . . . . . . : 03 October 2025 12:06:58
+   Default Gateway . . . . . . . . . : fe80::e001:XXXX:XXXX:XXXXXX
+                                       fe80::e4a7:XXXX:XXXX:XXXXXXX
+                                       10.XX.XX.XXX
+   DHCP Server . . . . . . . . . . . : 10.XX.XX.XXX
+   DHCPv6 IAID . . . . . . . . . . . : XXXXXXXXX
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2E-D3-4C-65-40-xx-xx-xx-xx-xx
+   DNS Servers . . . . . . . . . . . : 10.XX.XX.XXX
+                                       2401:XXXX:XXXX:XXXX::XX
+   NetBIOS over Tcpip. . . . . . . . : Enabled
